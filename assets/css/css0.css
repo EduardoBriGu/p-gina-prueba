@@ -1,0 +1,22 @@
+/*  altura - vh
+    ancho - vw */
+
+.menu{
+  margin-right: 4rem;
+}
+
+body{
+  background-color: rgb(82, 73, 73);
+}
+
+.altura-img{
+  height: calc(100vh - 56px);
+}
+
+.titulo{
+  color: azure;
+}
+
+.tarjetas{
+  height: 20rem;
+}
